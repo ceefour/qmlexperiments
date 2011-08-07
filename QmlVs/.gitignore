@@ -1,3 +1,4 @@
+/Makefile*
 /debug
 /release
 /*.pdb
