@@ -4,6 +4,7 @@
 	Version="9,00"
 	Name="QmlVs"
 	ProjectGUID="{6F1FFC49-B5E3-4CAE-808A-1D6684B8721E}"
+	RootNamespace="QmlVs"
 	Keyword="MakeFileProj"
 	TargetFrameworkVersion="196613"
 	>
@@ -90,7 +91,7 @@
 			>
 		</File>
 		<File
-			RelativePath=".\readme.txt"
+			RelativePath=".\readme.md"
 			>
 		</File>
 	</Files>
