@@ -1,0 +1,7 @@
+/Makefile*
+/debug
+/release
+/*.pdb
+/*.user
+/*.suo
+/*.ncb
